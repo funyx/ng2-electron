@@ -1,5 +1,7 @@
-> Electron and Bootstrap 4 integrated with bootswatch paper theme
+### Electron and Bootstrap 4 integrated with bootswatch paper theme
+
 ```bash
+
 # --depth 1 removes all but one .git commit history
 git clone --depth 1 https://github.com/funyx/ng2-electron
 
@@ -17,6 +19,7 @@ npm start
 
 # use Hot Module Replacement (webbrowser)
 npm run server:dev:hmr
+
 ```
 ___
 
